@@ -52,12 +52,30 @@ I’m **Rizqi**, a full-stack engineer building native Mac apps, web products, a
 
 I’m an **Android Enterprise Expert**, with experience developing and maintaining enterprise Android software used by up to **20,000 active users**.
 
+### GitHub activity
+
+<p align="center">
+  <a href="https://github.com/rizqiramadhannn?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=rizqiramadhannn&amp;show_icons=true&amp;hide_rank=true&amp;commits_year=2026&amp;include_all_commits=false&amp;card_width=420&amp;icon_color=72e0c1&amp;bg_color=101b22&amp;title_color=72e0c1&amp;text_color=b7d1ce&amp;border_color=28484a&amp;border_radius=12&amp;disable_animations=true" alt="GitHub statistics, including commits in 2026" width="420" /></a>
+  <a href="https://github.com/rizqiramadhannn?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=rizqiramadhannn&amp;layout=compact&amp;langs_count=8&amp;card_width=420&amp;bg_color=101b22&amp;title_color=72e0c1&amp;text_color=b7d1ce&amp;border_color=28484a&amp;border_radius=12&amp;disable_animations=true" alt="Most used languages across public repositories" width="420" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rizqiramadhannn?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizqiramadhannn&amp;theme=github_dark&amp;title_color=72e0c1&amp;text_color=b7d1ce&amp;bg_color=101b22&amp;border_color=28484a&amp;chart_color=72e0c1&amp;name=Rizqi%20Ramadhan" alt="GitHub contribution history over the past year" width="850" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rizqiramadhannn?tab=overview"><img src="https://streak-stats.demolab.com/?user=rizqiramadhannn&amp;theme=dark&amp;background=101b22&amp;border=28484a&amp;stroke=28484a&amp;ring=72e0c1&amp;fire=72e0c1&amp;currStreakNum=eff9f6&amp;sideNums=eff9f6&amp;currStreakLabel=72e0c1&amp;sideLabels=b7d1ce&amp;dates=8db9b2&amp;border_radius=12&amp;disable_animations=true" alt="Total contributions, current streak, and longest streak" width="500" /></a>
+</p>
+
+<sub>Public repository stats and contribution history. Language bars reflect repository code.</sub>
+
 ### A little more to explore
 
-- [WhatsApp Money Manager](https://github.com/rizqiramadhannn/whatsapp-money-manager) — capture personal finance entries through WhatsApp and store them in Google Sheets.
+- [Chat Money Manager](https://github.com/rizqiramadhannn/whatsapp-money-manager) — a personal finance bot originally built for WhatsApp, now connecting Telegram with Google Sheets.
 - [Google Workspace Automation](https://rizqiramadhan.dev/work/google-workspace-automation/) — connected workflows for quotations, inventory, and budgets.
 - [More projects and case studies](https://rizqiramadhan.dev/#work) — websites, business tools, and experiments.
 
 ---
 
 Have a useful idea? [Let’s make it real.](mailto:rizqiramadhan2312@gmail.com)
+
